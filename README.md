@@ -34,7 +34,10 @@ All python codes for all the defination and the imputation models used in the pa
 ## Matrix Factorization
 The IPython notebook [MF.ipynb](MF.ipynb) provide an example and result comparison for Matrix factorization model proposed in the paper. 
 
-
+ <p align="center">
+  <img width="1000" src="Figures/MF_Example.png">
+</p>
+ 
 
 
 
@@ -42,7 +45,10 @@ The IPython notebook [MF.ipynb](MF.ipynb) provide an example and result comparis
 ## Coupled Matrix Factorization
 The IPython notebook [CMF.ipynb](CMF.ipynb) provide an example and result comparison for Coupled Matrix factorization model proposed in the paper. 
 
-
+ <p align="center">
+  <img width="1000" src="Figures/CMF_Example.png">
+</p>
+ 
 
 
 
