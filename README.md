@@ -35,22 +35,37 @@ All python codes for all the defination and the imputation models used in the pa
 The IPython notebook [MF.ipynb](MF.ipynb) provide an example and result comparison for Matrix factorization model proposed in the paper. 
 
  <p align="center">
-  <img width="1000" src="Figures/MF_Example.png">
+  <img width="700" src="Figures/MF_Example.png">
 </p>
  
+  <p align="center">
+Heatmap Quarter Factors
+ </p>
+ <p align="center">
+  <img width="500" src="Figures/Heatmap_Quarter.png">
+</p>
 
-
+  <p align="center">
+Heatmap Analysts Factors
+ </p>
+ <p align="center">
+  <img width="500" src="Figures/Heatmap_Analyst.png">
+</p>
 
 
 ## Coupled Matrix Factorization
 The IPython notebook [CMF.ipynb](CMF.ipynb) provide an example and result comparison for Coupled Matrix factorization model proposed in the paper. 
 
  <p align="center">
-  <img width="1000" src="Figures/CMF_Example.png">
+  <img width="700" src="Figures/CMF_Example.png">
 </p>
  
+ 
 
-
+ <p align="center">
+  <img width="700" src="Figures/Rolling_Window_Example.png">
+</p>
+ 
 
 
 
