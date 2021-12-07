@@ -27,7 +27,7 @@ The Sample Data used for this code example is available in folder [Data](Data). 
 
 
 ### utils
-All python codes for all the defination and the imputation models used in the paper are available in the folders [utils](utils)
+Python codes for all the defination and the imputation models used in the paper are available in the folders [utils](utils)
 
 
 
