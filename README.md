@@ -57,13 +57,13 @@ Heatmap Analysts Factors
 The IPython notebook [CMF.ipynb](CMF.ipynb) provide an example and result comparison for Coupled Matrix factorization model proposed in the paper. 
 
  <p align="center">
-  <img width="700" src="Figures/CMF_Example.png">
+  <img width="500" src="Figures/CMF_Example.png">
 </p>
  
  
 
  <p align="center">
-  <img width="700" src="Figures/Rolling_Window_Example.png">
+  <img width="500" src="Figures/Rolling_Window_Example.png">
 </p>
  
 
